@@ -3,3 +3,5 @@ development branch commit
 trial for pusing all to both branches
 tos applications
  git stash on same file
+
+ this looks like cherry pick 3 
